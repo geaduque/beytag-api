@@ -1,0 +1,46 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Dangerously in Love",
+      "capa": "./imagens/dangerously_in_love.png",
+      "link": "https://www.youtube.com/embed/B-GOjcrV5MA"
+    },
+    {
+      "id": 2,
+      "titulo": "B'Day",
+      "capa": "./imagens/bday.png",
+      "link": "https://www.youtube.com/embed/4AzwjaapJB4"
+    },
+    {
+      "id": 3,
+      "titulo": "I Am...Sasha Fierce",
+      "capa": "./imagens/i_am_sasha_fierce.jpg",
+      "link": "https://www.youtube.com/embed/VNjg8AGIu6g"
+    },
+    {
+      "id": 4,
+      "titulo": "4",
+      "capa": "./imagens/4.png",
+      "link": "https://www.youtube.com/embed/pq6HtkuI_cg"
+    },
+    {
+      "id": 5,
+      "titulo": "BEYONCÉ",
+      "capa": "./imagens/beyonce_self_titled.png",
+      "link": "https://www.youtube.com/embed/rywcaR5Vy7Y"
+    },
+    {
+      "id": 6,
+      "titulo": "Lemonade",
+      "capa": "./imagens/lemonade.png",
+      "link": "https://www.youtube.com/embed/gHYwerZbMS4"
+    },
+    {
+      "id": 7,
+      "titulo": "Renaissance",
+      "capa": "./imagens/renaissance.png",
+      "link": "https://www.youtube.com/embed/yGgjm-w5CqA"
+    }
+  ]
+}
